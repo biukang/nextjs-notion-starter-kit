@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd055fdaa6993456b9bda4fe12f45b9b0',
+  rootNotionPageId: 'Openfish-d055fdaa6993456b9bda4fe12f45b9b0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -53,7 +53,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Changelog',
-      pageId: '233af8b046d2494ab2c24a1a6694d908'
+      pageId: 'Changelog-233af8b046d2494ab2c24a1a6694d908'
     }
 //     {
 //       title: 'Contact',
